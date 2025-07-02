@@ -14,12 +14,6 @@ AI Prompt Enhancer is a simple web app that helps you create clear and ready-to-
 
 ---
 
-## Demo
-
-![Screenshot](https://github.com/yapweijun1996/AI-Prompt-Enhancer-v1/og_img.jpg)
-
----
-
 ## How to Use
 
 1. Open the web app in your browser.
@@ -30,10 +24,14 @@ AI Prompt Enhancer is a simple web app that helps you create clear and ready-to-
 
 ---
 
-## Installation
+## Demo
 
-To run this project locally:
+https://yapweijun1996.github.io/AI-Prompt-Enhancer-v1/
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yapweijun1996/AI-Prompt-Enhancer-v1.git
+---
+
+## Preview
+
+![image](https://github.com/user-attachments/assets/42e7d9ff-13e6-41fd-b366-f556afc9e206)
+
+
